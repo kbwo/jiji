@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 clap = "3.1.15"
 log = "0.4.17"
+logos = "0.12.0"
